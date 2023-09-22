@@ -1,0 +1,3 @@
+newrelic_account_id = 123456
+newrelic_cluster_name = "yourclustername"
+newrelic_cluster_entity_guid = "MTk3NjM4Mnxxxxxxxxxxxxxxxxxxxx"
